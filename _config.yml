@@ -1,7 +1,7 @@
 # Site settings
-title: work-life balance
+title: Work-life balance
 SEOTitle: 一个沙雕写字的地方
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-keybord.jpg
 email: gglee94@foxmail.com
 description: "冬天好冷啊。"
 keyword: "一夜暴富"
@@ -11,8 +11,8 @@ github_repo: "https://github.com/anycode3/anycode3.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Winter is coming"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "一夜暴富"
+sidebar-avatar: /img/post-bg-debug.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
